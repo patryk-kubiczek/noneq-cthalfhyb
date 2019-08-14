@@ -6,6 +6,8 @@ P. Kubiczek, A. N. Rubtsov, A. I. Lichtenstein: [Exact real-time dynamics of sin
 
 for details.
 
+![CT-1/2-HYB visualization](https://github.com/patryk-kubiczek/patryk-kubiczek.github.io/blob/master/images/physics/ct-half-hyb.png?raw=true)
+
 ## Installation
 
 Installation requires a C++14 compiler, Boost and Armadillo C++ libraries, and Cython for Python interface.
